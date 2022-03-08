@@ -3,7 +3,7 @@ body
   background-color:rgba(0, 174, 255, 0.637);
   font-family: 'Courier New', Courier, monospace;
   font-size:xx-large;
-  font: weight 100px;
+  font-weight: 100px;
   font-style: normal;
   }
 
@@ -19,7 +19,7 @@ nav#u ul li{
   margin: 10px 10px ;
   display:block;
   width: auto;
-  padding: auto;
+  padding: 5px;
 }
 
 nav#u1 ul
@@ -36,7 +36,7 @@ float:left;
 margin: 10px 10px ;
 display:block;
 width: auto;
-padding: auto;
+padding: 5px;
 }
 
 nav#u2 ul
@@ -52,7 +52,7 @@ float:left;
 margin: 10px 10px ;
 display:block;
 width: auto;
-padding: auto;
+padding: 5px;
 }
 
 h1
