@@ -3,7 +3,7 @@ body
   background-color:rgb(0, 174, 255);
   font-family: 'Courier New', Courier, monospace;
   font-size:xx-large;
-  font-weight:300;
+  font: weight 300px;
   font-style: normal;
   }
 
