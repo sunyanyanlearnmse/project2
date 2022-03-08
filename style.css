@@ -1,0 +1,144 @@
+body
+  {
+  background-color:rgb(0, 174, 255);
+  font-family: 'Courier New', Courier, monospace;
+  font-size:xx-large;
+  font-weight:900;
+  font-style: normal;
+  }
+
+nav#u ul
+{
+  list-style-type: none;
+  margin: 10px;
+  padding:0 10px;
+  overflow: auto;
+}
+nav#u ul li{
+  float:left;
+  margin: 10px 10px ;
+  display:block;
+  width: auto;
+  padding: auto;
+}
+
+nav#u1 ul
+{
+  list-style-type: none;
+  margin: 10px  ;
+  padding: 0 10px;
+  overflow: auto;
+}
+
+nav#u1 ul li
+{
+float:left;
+margin: 10px 10px ;
+display:block;
+width: auto;
+padding: auto;
+}
+
+nav#u2 ul
+{
+  list-style-type: none;
+  margin: 10px ;
+  padding: 0 10px ;
+  overflow: auto;
+}
+nav#u2 ul li
+{
+float:left;
+margin: 10px 10px ;
+display:block;
+width: auto;
+padding: auto;
+}
+
+h1
+  {background-attachment: fixed;
+  padding: 10px;
+  background-size: contain;
+  font-family: 'Times New Roman', Times, serif;
+  font-size:larger;
+  font-style: unset;
+  color :#a636d3;
+  }
+
+  h2
+  {background-attachment: fixed;
+  padding: 5px;
+  background-size: contain;
+  font-family: 'Times New Roman', Times, serif;
+  font-size:larger;
+  font-style: unset;
+  }
+
+  p
+  {background-attachment: fixed;
+    background-color: rgba(160, 240, 12, 0.459);
+    background-size: contain;
+    font-family: 'Times New Roman', Times, serif;
+    font-size:larger;
+    font-style: unset;
+    text-indent: 2em  ;
+  }
+
+  .image1
+  { 
+    width: 260px;
+    border-style:outset;
+    border-color: rgb(43, 101, 226);
+  }
+
+  .image2
+  { 
+    width: 260px;
+    border-style:outset;
+    border-color: rgb(43, 101, 226);
+  }
+
+  .image3
+  { 
+    height:  260px;
+    width: auto;
+    border-style:outset;
+    border-color: rgb(43, 101, 226);
+  }
+
+  .image4
+  { 
+    height:  260px;
+    border-style:outset;
+    border-color: rgb(43, 101, 226);
+  }
+
+  .image5
+  { 
+   width: 260px;
+   height: auto;
+  }
+   
+  .video_1 {
+    text-align:center;
+    border: 10px double;
+    border-color: #b3d336;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 96%;   
+    border-width: 10px; 
+  }
+
+  .video_2 {
+    background-color: rgb(48, 48, 45);
+    text-align: center;
+    border: 5px inset;
+    border-radius: 100px;
+    border-color: #f7f8f4;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width:100%;
+    
+  }
