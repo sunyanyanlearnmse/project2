@@ -131,6 +131,7 @@ p
     float: left; 
     margin-left: 500px;
     margin-right: 150px; 
+    border-style:outset;
 
   }
 
@@ -140,4 +141,5 @@ p
     display: block;
     margin-right: 150px; 
     margin-bottom: 100px;
+    border-style:outset;
   }
